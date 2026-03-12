@@ -18,3 +18,31 @@ PROJECT OBJECTIVES
 •	Demonstrate how interactive visualization enhances historical data analysis
 
 •	Apply Python-based geospatial visualization techniques
+
+•	Apply Python-based geospatial visualization techniques
+
+
+
+VISUALIZATION FEATURES
+
+The interactive map includes several visualization layers that provide different perspectives on the outbreak data.
+
+1.	Death Markers: Individual cholera deaths are plotted using proportional circular markers. Marker size represents the number of deaths recorded at each location.
+
+2.	Cluster Visualization: Nearby death locations are grouped into clusters that dynamically expand when the user zooms into the map. This improves readability when viewing the entire dataset.
+
+3.	Heatmap Representation: A heatmap layer highlights areas with a high density of deaths, making the outbreak centre visually apparent.
+
+4.	Water Pump Locations: Markers identify the locations of public water pumps, allowing users to observe the relationship between pump proximity and cholera mortality.
+
+TECHNOLOGIES USED
+
+•	Python
+
+•	Jupyter Notebook
+
+•	Pandas
+
+•	Folium
+
+
